@@ -5,7 +5,7 @@ public class Abc {
 		System.out.println("shankar");
 		System.out.println("ranganathan");
 		system.out.println("hansika");
-		
+		system.out.println("2");		
 	}
 
 }
